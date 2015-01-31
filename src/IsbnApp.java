@@ -9,6 +9,7 @@ public class IsbnApp {
 		System.out.println(mybook.getIsbn());
 		
 		System.out.println(mybook.isValid(mybook.getIsbn()));
+		System.out.println("Test 123");
 	}
 
 }
